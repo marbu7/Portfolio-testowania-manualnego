@@ -16,5 +16,4 @@ Nazywam się Marta. Ukończyłam studia licencjackie na kierunku Bezpieczeństwo
 * Postman- Testowanie REST API (Udemy) w trakcie kursu
 ## Projekty
 * Testowanie manualne aplikacji w ramach warsztatów "Czy IT jest dla mnie"
-* ** Link do zaraportowanych błędów w Jira:
-* ** (https://testowanie-01.atlassian.net/jira/software/projects/LW/boards/2)
+*  Link do zaraportowanych błędów w Jira: (https://testowanie-01.atlassian.net/jira/software/projects/LW/boards/2)
