@@ -9,8 +9,11 @@ Nazywam się Marta. Ukończyłam studia licencjackie na kierunku Bezpieczeństwo
 * Raportowanie błędów
 * Podstawowa znajomość SQL/mySQL
 ## Kursy
-*Praktyczny kurs testowania oprogramowania (Udemy)
-*SQL od podstaw/mySQL
-*Warsztaty z tesowania aplikacji i raporotwania błędów-"Czy IT jest dla mnie"
-*QA maraton testowania GoIT
-*Postman- Testowanie REST API (Udemy) w trakcie kursu
+* Praktyczny kurs testowania oprogramowania (Udemy)
+* SQL od podstaw/mySQL
+* Warsztaty z tesowania aplikacji i raporotwania błędów-"Czy IT jest dla mnie"
+* QA maraton testowania GoIT
+* Postman- Testowanie REST API (Udemy) w trakcie kursu
+## Projekty
+* Testowanie manualne aplikacji w ramach warsztatów "Czy IT jest dla mnie"
+ * Link do zaraportowanych błędów w [Jira] (https://testowanie-01.atlassian.net/jira/software/projects/LW/boards/2)
